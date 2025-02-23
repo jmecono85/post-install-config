@@ -65,13 +65,19 @@ Other
 
 ![image](https://github.com/user-attachments/assets/f45366f4-aaf1-4daf-8e91-b13315253749)
 
-
 <p>
 - Login as Admin --> Admin Panel -> Agents -> Teams (Online Banking)
-
 </p>
 
+<h2>Configuration Steps Item 4</h2>
 
+![image](https://github.com/user-attachments/assets/648f620b-3b3a-4277-adaa-f783a4c0f406)
+![image](https://github.com/user-attachments/assets/b63e1562-8449-4165-8582-a7e76925e20d)
+
+<p>
+- Login as Admin Panel -> Agents -> Add New
+</p>
+--------------------------------
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
