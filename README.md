@@ -23,18 +23,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Item 1 - Configure Roles (Supreme Admin)
-
-- Item 2 - Configure Teams (Online Banking)
-  
-- Item 3 - Configure Agents (workers)
+- Item 2 - Configure Departments (SysAdmin)
+- Item 3 - Configure Teams (Online Banking)
+- Item 4 - Configure Agents (workers)
 Jane (Dept: SysAdmins)
 John (Dept: Support)
-
-
-- Item 4 - Configure Users (customers)
+- Item 5 - Configure Users (customers)
   Karen
-
-- Item 5 Configure SLA
+- Item 6 Configure SLA
 Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 Sev-C (Grace Period: 8 hours, Business Hours)
@@ -52,11 +48,18 @@ Other
 
 <p>
 - Login as Admin --> Admin Panel --> Agents --> Roles --> Permission --> " Check All Permission"
-- Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
+
 </p>
 
 
 <h2>Configuration Steps Item 2 </h2>
+
+![image](https://github.com/user-attachments/assets/667d19da-da42-471e-b436-f45cb95d9aad)
+
+
+<p>
+- Login as Admin Panel --> Agents --> Teams --> Departments (SysAdmin)
+</p>
 
 
 <p>
