@@ -24,19 +24,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Item 1 - Configure Roles (Supreme Admin)
 
-- Item 2 - Configure Departments (SysAdmins)
-
-- Item 3 - Configure Teams (Online Banking)
+- Item 2 - Configure Teams (Online Banking)
   
-- Item 4 - Configure Agents (workers)
+- Item 3 - Configure Agents (workers)
 Jane (Dept: SysAdmins)
 John (Dept: Support)
 
 
-- Item 5 - Configure Users (customers)
+- Item 4 - Configure Users (customers)
   Karen
 
-- Item 6 Configure SLA
+- Item 5 Configure SLA
 Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 Sev-C (Grace Period: 8 hours, Business Hours)
@@ -58,7 +56,7 @@ Other
 </p>
 
 
-<h2>Configuration Steps</h2>
+<h2>Configuration Steps Item 2 </h2>
 
 
 <p>
