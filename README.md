@@ -61,6 +61,16 @@ Other
 - Login as Admin Panel --> Agents --> Teams --> Departments (SysAdmin)
 </p>
 
+<h2>Configuration Steps Item 3 </h2>
+
+![image](https://github.com/user-attachments/assets/f45366f4-aaf1-4daf-8e91-b13315253749)
+
+
+<p>
+- Login as Admin --> Admin Panel -> Agents -> Teams (Online Banking)
+
+</p>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
