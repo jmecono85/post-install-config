@@ -91,8 +91,19 @@ Other
 
 <p>
 - Admin Panel -> Manage -> SLA
-
 </p>
+
+<h2>Configuration Steps Item 7</h2>
+
+![image](https://github.com/user-attachments/assets/bebbcdbe-d543-4277-a408-254e2bf899ab)
+
+<p>
+- Admin Panel -> Manage -> Help Topics
+</p>
+
+
+
+
 --------------------------------
 <p>
 ![image](https://github.com/user-attachments/assets/84c702f1-d165-4b2f-a415-3ec832209962)
