@@ -48,7 +48,6 @@ Other
 
 <p>
 - Login as Admin --> Admin Panel --> Agents --> Roles --> Permission --> " Check All Permission"
-
 </p>
 
 
@@ -77,9 +76,20 @@ Other
 <p>
 - Login as Admin Panel -> Agents -> Add New
 </p>
+
+<h2>Configuration Steps Item 5</h2>
+
+![image](https://github.com/user-attachments/assets/0da13f53-6642-4161-93f0-0999466b1827)
+
+
+<p>
+-Agent Panel -> Users -> Add New
+</p>
+
+
 --------------------------------
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/84c702f1-d165-4b2f-a415-3ec832209962)
 </p>
 
 
