@@ -54,6 +54,7 @@ Other
 
 <p>
 - Login as Admin --> Admin Panel --> Agents --> Roles --> Permission --> " Check All Permission"
+- Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
 </p>
 
 
