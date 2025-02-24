@@ -46,9 +46,6 @@ Other
 
 ![image](https://github.com/user-attachments/assets/32c61e96-d8f8-4557-8ef5-6bd3b75ce2d1)
 
-<p>
-- Admin Panel --> Agents --> Roles --> Permission --> " Check All Permission"
-</p>
 
 
 <h2>Configuration Steps Item 2 </h2>
@@ -56,50 +53,33 @@ Other
 ![image](https://github.com/user-attachments/assets/667d19da-da42-471e-b436-f45cb95d9aad)
 
 
-<p>
-- Admin Panel --> Agents --> Teams --> Departments (SysAdmin)
-</p>
 
 <h2>Configuration Steps Item 3 </h2>
 
 ![image](https://github.com/user-attachments/assets/f45366f4-aaf1-4daf-8e91-b13315253749)
 
-<p>
--  Admin Panel -> Agents -> Teams (Online Banking)
-</p>
+
 
 <h2>Configuration Steps Item 4</h2>
 
 ![image](https://github.com/user-attachments/assets/648f620b-3b3a-4277-adaa-f783a4c0f406)
 ![image](https://github.com/user-attachments/assets/b63e1562-8449-4165-8582-a7e76925e20d)
 
-<p>
-- Login as Admin Panel -> Agents -> Add New
-</p>
 
 <h2>Configuration Steps Item 5</h2>
 
 ![image](https://github.com/user-attachments/assets/0da13f53-6642-4161-93f0-0999466b1827)
 
-<p>
--Agent Panel -> Users -> Add New
-</p>
 
 <h2>Configuration Steps Item 6</h2>
 
 ![image](https://github.com/user-attachments/assets/aaf3de91-e16b-43df-9a98-f62e11b24107)
 
-<p>
-- Admin Panel -> Manage -> SLA
-</p>
 
 <h2>Configuration Steps Item 7</h2>
 
 ![image](https://github.com/user-attachments/assets/bebbcdbe-d543-4277-a408-254e2bf899ab)
 
-<p>
-- Admin Panel -> Manage -> Help Topics
-</p>
 
 
 
